@@ -15,7 +15,8 @@ brew install pre-commit
 Copying the .pre-commit-config.yaml into your project.
 
 Install with git. (requires git installation)
-```pre-commit install
+```
+pre-commit install
 ```
 
 
